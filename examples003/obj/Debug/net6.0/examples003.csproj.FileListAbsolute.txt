@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/Examples/examples003/bin/Debug/net6.0/examples003
+/Users/macbook/Desktop/Examples/examples003/bin/Debug/net6.0/examples003.deps.json
+/Users/macbook/Desktop/Examples/examples003/bin/Debug/net6.0/examples003.runtimeconfig.json
+/Users/macbook/Desktop/Examples/examples003/bin/Debug/net6.0/examples003.dll
+/Users/macbook/Desktop/Examples/examples003/bin/Debug/net6.0/examples003.pdb
+/Users/macbook/Desktop/Examples/examples003/obj/Debug/net6.0/examples003.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/Examples/examples003/obj/Debug/net6.0/examples003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Examples/examples003/obj/Debug/net6.0/examples003.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Examples/examples003/obj/Debug/net6.0/examples003.AssemblyInfo.cs
+/Users/macbook/Desktop/Examples/examples003/obj/Debug/net6.0/examples003.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Examples/examples003/obj/Debug/net6.0/examples003.dll
+/Users/macbook/Desktop/Examples/examples003/obj/Debug/net6.0/refint/examples003.dll
+/Users/macbook/Desktop/Examples/examples003/obj/Debug/net6.0/examples003.pdb
+/Users/macbook/Desktop/Examples/examples003/obj/Debug/net6.0/examples003.genruntimeconfig.cache
+/Users/macbook/Desktop/Examples/examples003/obj/Debug/net6.0/ref/examples003.dll
